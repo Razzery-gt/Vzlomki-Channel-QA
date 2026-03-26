@@ -1,2 +1,2 @@
 # Vzlomki-Channel-QA
-QA repository for Vzlomki TG channels (@AndroidUtils, @WindowsUtilites) 
+Information repository for Vzlomki Telegram channels (@AndroidUtils, @WindowsUtilites and other) 
